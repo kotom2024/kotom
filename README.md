@@ -38,7 +38,7 @@
   </a>
   <p style="color:rgb(97, 195, 212); font-size: 18px;">If you want script of this application contact me:</p>
   <a href="https://www.facebook.com/kotom2003">
-    <img src="facebookacc.jpg" alt="My Account Photo" witdh="10%" height="20%"></a><br>
+    <img src="facebookacc.jpg" alt="My Account Photo" witdh="1%" height="2%"></a><br>
   <a href="https://www.facebook.com/kotom2003" style="color:rgb(97, 195, 212);">My Facebook Account😊</a>
   <p style="color: rgb(97, 195, 212) ; font-size: 26px;">Wish you be happy at 2024</p>
   <img src="giphy (6).gif" alt="Dancing Cat"  witdh="10%" height="20%">
